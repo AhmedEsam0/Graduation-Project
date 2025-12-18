@@ -1,6 +1,6 @@
 # Design and Implementation of a Secure Company Network System
 ## 1. Introduction
-This document outlines the design and implementation of a secure network system for Cytonn Innovation Ltd, a forward-thinking company specializing in providing innovative cloud solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
+This document outlines the design and implementation of a secure network system, a forward-thinking company specializing in providing innovative cloud solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
 
 ![Secure Company Network Packet Tracer](https://github.com/user-attachments/assets/c084538a-3330-46da-b629-8aa0aebc4081)
 
