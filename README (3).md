@@ -5,7 +5,7 @@ This document outlines the design and implementation of a secure network system,
 ![Secure Company Network Packet Tracer](https://github.com/user-attachments/assets/c084538a-3330-46da-b629-8aa0aebc4081)
 
 ## 2. Case Study and Requirements
-Cytonn Innovation Ltd has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
+  has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
 Prior to the move, a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside, and DMZ.
 
 ## 3.Network Devices Description
@@ -173,6 +173,6 @@ After configuring the entire network, thorough testing was conducted to ensure p
 # ![image](https://github.com/user-attachments/assets/e6027e05-1bfa-4a99-866c-bf84d2db921f)
 
 
-The design and implementation of a secure network system for Cytonn Innovation Ltd is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape.
+The design and implementation of a secure network system for   is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape.
 
 
